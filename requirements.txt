@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+pydantic
+openpyxl
+python-dotenv
+
+    PARA EXECUTAR:
+        uvicorn app:app --reload
+    PARA ACESSAR:
+        http://127.0.0.1:8000/processar-vendas
